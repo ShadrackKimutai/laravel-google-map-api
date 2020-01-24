@@ -1,0 +1,35 @@
+{
+  "name": "ShadrackKimutai/laravelgooglemaps",
+  "description": "Laravel Google Map api will work for > 6.x. ",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "gmap",
+    "map",
+    "google",
+    "googlemap",
+    "gmap"
+  ],
+  "authors": [
+    {
+      "name": "Farhan Wazir",
+      "email": "seejee1@gmail.com",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "php": ">=6.12.0",
+    "laravel/framework": "5.*|6.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ShadrackKimutai\\GoogleMaps\\": "src/ShadrackKimutai/GoogleMaps/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
+  "minimum-stability": "stable"
+}

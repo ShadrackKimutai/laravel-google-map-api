@@ -1,0 +1,13 @@
+language: php
+
+php:
+  - 6.0
+  - 6.1
+  - 6.12
+  - hhvm
+
+before_script:
+  - composer self-update
+  - composer install --prefer-source --no-interaction --dev
+
+script: phpunit
