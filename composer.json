@@ -1,5 +1,5 @@
 {
-  "name": "ShadrackKimutai/laravelgooglemaps",
+  "name": "shadrackkimutai/laravel-google-map-api",
   "description": "Laravel Google Map api will work for > 6.x. ",
   "license": "MIT",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "authors": [
     {
-      "name": "Farhan Wazir",
+      "name": "Shadrack Kimutai",
       "email": "seejee1@gmail.com",
       "role": "Author"
     }
